@@ -1,1 +1,3 @@
-worker: python bot.py
+discord.py[voice]
+yt-dlp
+PyNaCl
